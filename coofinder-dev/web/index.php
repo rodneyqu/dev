@@ -21,14 +21,14 @@
 <header class="site-header jumbotron">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12" style="padding:140px 0 40px 0">
+            <div class="col-xs-12" style="padding:10px 0 30px 0">
                 <img src="./images/logo_home.png">
             </div>
             <div class="col-xs-12">
                 <div class="col-xs-12 col-md-3 col-sm-12 col-lg-3">
                 </div>
                 <form action="/s" method="get" name="form">
-                    <div class="col-xs-12 col-md-6 col-sm-12 col-lg-6">
+                    <div class="col-xs-12 col-md-6 col-sm-12 col-lg-6" style="width:100%;">
                         <div class="input-group input-group-lg">
                             <input type="text" class="form-control" maxlength='100' id="words" name="q"/>
                    <span class="input-group-btn">
