@@ -1,0 +1,16 @@
+<?php
+
+$cloud_host = 'https://d2jfeccutohmdx.cloudfront.net';
+$campID = "RZSS";
+
+define('MEMCACHE_LOCAL_HOST', '127.0.0.1');
+define('MEMCACHE_LOCAL_PORT', '11211');
+
+define('MEMCACHE_HOST', 'BPO_MEMCACHE_TFXIQ-CONSOLE_INTERNAL_IP');
+define('MEMCACHE_PORT', 'BPO_MEMCACHE_TFXIQ-CONSOLE_PORT');
+
+$defaultType = array(
+    'web',
+    'shopping',
+    'game'
+);

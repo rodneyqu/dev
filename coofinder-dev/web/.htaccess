@@ -1,0 +1,12 @@
+Options +FollowSymLinks
+IndexIgnore */*
+
+RewriteEngine on 
+
+RewriteRule ^s$ s.php [QSA]
+
+
+
+
+
+
